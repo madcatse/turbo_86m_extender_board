@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Turbo86m")(type "KiCad")(uri "${KIPRJMOD}/libs/Turbo86m.kicad_sym")(options "")(descr ""))
+)
